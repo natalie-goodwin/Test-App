@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+<p>This is part of week 13 React notes and code for videos</p>
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
